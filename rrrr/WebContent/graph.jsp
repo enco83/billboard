@@ -51,6 +51,10 @@ var chart = bb.generate({
 	  },
 	 
 	  axis: {
+		  y: {
+			  label: "총 생산량(t)"
+			
+		  },
 		    y2: {
 		    	label:"평균 기온(℃)",
 		      show: true
